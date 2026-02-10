@@ -1,0 +1,88 @@
+academic_level,university_name,used_platform,no_platform_understanding,no_platform_analytical_thinking,no_platform_skills_confidence,course,platform,platform_uni_understanding,platform_understanding,platform_analytical_thinking,platform_skills_confidence,platform_course_completed,no_paltform_lecture_sufficient,no_paltform_trust_uni_content,no_paltform_prefer_structured_learning,no_paltform_lack_platform_awareness,no_paltform_lack_time_or_motivation,others_review_topics,others_learn_atOwnPace,others_practice_exercises,others_follow_upToDate_content,others_certificate_internship,is_programming_course,is_computer_science_course,is_mathematics_course,is_statistics_course,is_data_science_course,incomplete_busy,incomplete_lost_motivation,incomplete_course_difficulty,incomplete_unstructured_learning,incomplete_better_resources,platform_review_topics,platform_learn_atOwnPace,platform_practice_exercises,platform_upToDate_content,platform_certificate_internship
+Undergraduate,Public,1,,,,Python,YouTube,3,5,5,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+Undergraduate,Public,1,,,,"DSA, R, Python","YouTube, DataCamp",3,5,3,4,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1
+Postgraguate,Public,1,,,,,"YouTube, Coursera",2,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Postgraguate,Public,1,,,,,YouTube,1,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Postgraguate,Public,1,,,,"Data Science, Data Analysis","DataCamp, Coursera",3,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Postgraguate,Private,1,,,,,DataCamp,4,5,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Postgraguate,Public,1,,,,Python,IBM,4,5,4,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Undergraduate,Public,1,,,,OOP,Zaker,1,3,2,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Postgraguate,Public,1,,,,,YouTube,3,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Undergraduate,Public,1,,,,,"W3School, Coursera ",3,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1
+Undergraduate,Public,1,,,,"DSA, C++",YouTube,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1
+Undergraduate,Public,1,,,,Linear Algebra,YouTube,3,3,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Undergraduate,Public,1,,,,,"Coursera, Udemy",3,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Postgraguate,Public,0,1,3,2,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,0,2,2,2,,,,,,,,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,Python,W3School,2,3,3,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+Undergraduate,Public,1,,,,Programming,Kaggle,3,4,2,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Postgraguate,Public,0,4,3,3,,,,,,,,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,,"YouTube , Kaggle , W3School",2,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0
+Undergraduate,Public,1,,,,Python,W3School,1,3,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+Undergraduate,Public,0,2,2,2,,,,,,,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,0,2,2,2,,,,,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,,YouTube,3,5,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Undergraduate,Public,1,,,,Python,AUBX,2,2,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0
+Undergraduate,Public,1,,,,Database,YouTube,2,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Undergraduate,Public,1,,,,Web,W3School,3,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+Undergraduate,Private,1,,,,Database,EDX,5,3,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Postgraguate,Private,1,,,,,DataCamp,5,4,3,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Undergraduate,Private,1,,,,"SQL, Data Wrangling",EDX,2,2,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1
+Undergraduate,Private,1,,,,"Calculus, Probability",,1,3,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Undergraduate,Public,1,,,,OOP,YouTube,3,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Undergraduate,Public,1,,,,"Web, Java, C++, R",YouTube,3,5,4,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0
+Postgraguate,Private,0,3,4,3,,,,,,,,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Private,0,3,3,3,,,,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Private,1,,,,ML,Cousera,5,3,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Postgraguate,Private,1,,,,,Blackboard,4,5,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0
+Postgraguate,Private,0,3,4,3,,,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Private,1,,,,,YouTube,4,3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Undergraduate,Private,1,,,,Discrete Math,YouTube,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Undergraduate,Private,0,2,3,3,,,,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,"DSA, Python, Linear Algebra",YouTube,3,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Postgraguate,Private,1,,,,PHP,W3School,4,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,"Java, Python, R, DSA, Statistics",,1,4,4,4,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0
+Postgraguate,Public,0,3,3,1,,,,,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,"DSA, C++, ML","YouTube , W3School",3,4,5,5,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1
+Undergraduate,Public,0,1,1,1,,,,,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,0,3,3,2,,,,,,,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,C++,,3,4,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,1,0
+Undergraduate,Public,1,,,,DSA,YouTube,2,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Undergraduate,Public,0,2,4,3,,,,,,,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Postgraguate,Public,1,,,,DSA,YouTube,2,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0
+Undergraduate,Public,1,,,,Python,YouTube,1,3,2,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Postgraguate,Public,1,,,,,Coursera,3,4,3,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+Undergraduate,Public,1,,,,SQL,Udemy,2,4,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0
+Undergraduate,Public,0,3,2,2,,,,,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,"Database, Java, Python ","YouTube, W3School",3,4,4,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Undergraduate,Public,1,,,,,W3School,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Undergraduate,Public,0,1,2,1,,,,,,,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,SQL,DataCamp,2,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Undergraduate,Public,1,,,,,"YouTube, W3School",3,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Undergraduate,Public,0,3,3,4,,,,,,,,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Postgraguate,Public,0,1,2,1,,,,,,,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,Database, Udemy,1,4,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0
+Undergraduate,Public,0,2,3,1,,,,,,,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,"Python, Java, Web",YouTube,4,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+Undergraduate,Public,1,,,,Data Analysis ,Coursera,3,4,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Undergraduate,Public,1,,,,"Python , Java , Discrete Math, DSA",,2,4,5,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1
+Undergraduate,Public,1,,,,Python,ForwardMena,2,3,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Undergraduate,Public,1,,,,"Linear Algebra, DSA, Web, C++ , OOP ",YouTube,3,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0
+Undergraduate,Public,0,2,2,2,,,,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,0,2,2,1,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,,"YouTube, Coursera",2,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Undergraduate,Public,0,1,2,1,,,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,0,3,3,2,,,,,,,,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,Python,Youbee,1,4,4,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+Undergraduate,Public,1,,,,,YouTube,3,2,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Undergraduate,Public,1,,,,Java,Zaker,1,3,2,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Undergraduate,Public,1,,,,Python,W3School,1,4,4,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Undergraduate,Public,1,,,,"Web, Database","Youbee, YouTube",3,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0
+Postgraguate,Public,1,,,,DSA,YouTube,2,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0
+Undergraduate,Public,1,,,,Java,Google,4,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Postgraguate,Public,0,3,2,2,,,,,,,,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undergraduate,Public,1,,,,SQL,YouTube,3,4,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Undergraduate,Public,1,,,,Programming,,2,5,5,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Undergraduate,Public,1,,,,Python,W3School,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Undergraduate,Public,1,,,,,DataRoad,4,4,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Undergraduate,Public,1,,,,,YouTube,3,5,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
