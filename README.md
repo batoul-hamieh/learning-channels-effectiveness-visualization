@@ -13,7 +13,7 @@ The project is descriptive and visualization-driven, focusing on data storytelli
 
 ## Methodology
 - Data collected through a bilingual (Arabic/English) online survey
-- Target group: Lebanese university Data Science students
+- Target group: Lebanese Data Science students
 - Data cleaning and preparation using Python (pandas)
 - Exploratory, descriptive analysis
 - Visualizations created using Flourish Studio
