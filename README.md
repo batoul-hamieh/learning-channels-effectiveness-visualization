@@ -15,7 +15,7 @@ The project is descriptive and visualization-driven, focusing on data storytelli
 - Data collected through a bilingual (Arabic/English) online survey
 - Target group: Lebanese Data Science students
 - Data cleaning and preparation using Python (pandas)
-- Exploratory, descriptive analysis
+- Exploratory analysis
 - Visualizations created using Flourish Studio
 
 ## Tools & Technologies
@@ -31,3 +31,8 @@ The project is descriptive and visualization-driven, focusing on data storytelli
 - High-accessibility platforms (YouTube, W3Schools) dominate student usage
 
 ## Repository Structure
+├── data/                # Cleaned survey data
+├── visuals/             # Flourish visualizations
+├── notebooks/           # Data preparation scripts
+├── report/              # Final project report (PDF)
+└── README.md
