@@ -31,8 +31,12 @@ The project is descriptive and visualization-driven, focusing on data storytelli
 - High-accessibility platforms (YouTube, W3Schools) dominate student usage
 
 ## Repository Structure
-├── data/                # Cleaned survey data
-├── visuals/             # Flourish visualizations
-├── notebooks/           # Data preparation scripts
-├── report/              # Final project report (PDF)
+├── data/    
+
+├── visuals/ 
+
+├── notebooks/
+
+├── report/ 
+
 └── README.md
