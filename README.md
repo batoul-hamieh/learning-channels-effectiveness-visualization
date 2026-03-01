@@ -30,13 +30,3 @@ The project is descriptive and visualization-driven, focusing on data storytelli
 - Platform learning is perceived as more practical and mastery-oriented
 - High-accessibility platforms (YouTube, W3Schools) dominate student usage
 
-## Repository Structure
-├── data/    
-
-├── visuals/ 
-
-├── notebooks/
-
-├── report/ 
-
-└── README.md
